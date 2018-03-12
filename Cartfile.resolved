@@ -1,6 +1,6 @@
 github "Quick/Nimble" "v7.0.3"
 github "Quick/Quick" "v1.2.0"
 github "ReactiveCocoa/ReactiveObjC" "3.1.0"
-github "ReactiveCocoa/ReactiveSwift" "3.1.0"
-github "antitypical/Result" "3.2.4"
+github "antitypical/Result" "66165deb8bab5dc2a12d8ffa555d33c940ac2814"
+github "gransell/ReactiveSwift" "2320f81107bbb220171ee909aaacb43552e2c277"
 github "jspahrsummers/xcconfigs" "3d9d99634cae6d586e272543d527681283b33eb0"
